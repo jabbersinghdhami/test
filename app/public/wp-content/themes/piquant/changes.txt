@@ -1,0 +1,15 @@
+1.1.1
+- Updated Visual Composer to 4.11.2.1
+- Updated Revolution Slider to 5.2.5
+
+1.1
+- Added WordPress 4.5 compatibility
+- Added WooCommerce 2.5.5 compatibility
+- Updated Visual Composer to 4.11.1
+- Updated Revolution Slider to 5.2.4.1
+- Fixed compatibility issue with WP 4.4 image srcset attribute
+- Fixed HTML validation issue with tabbed gallery shortcode
+- Fixed spacing issue causing 404 error in WP admin
+- Fixed bug with Mikado Menu list not showing all items
+- Fixed bug with checkout link in Mikado WooCommerce Dropdown Cart widget
+- Fixed bug with custom widget area not deleting
